@@ -4,4 +4,4 @@ This repository contains the source code for a web application that generates QR
 <br>
 I welcome contributions to improve the QR Code Generator.
 <br>
-Find the Deployment at https://qr-code-generator-livid-seven.vercel.app/
+Find the Deployment at https://qr-code-generator-jfkr.vercel.app/
